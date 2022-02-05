@@ -1,0 +1,11 @@
+{
+    "name": "Hornet Coin",
+    "type": "BEP20",
+    "symbol": "HRNT",
+    "decimals": 9,
+    "website": "https://realhornetcoin.com/",
+    "description": "$HRNT is a low tax, fully decentralized, deflationary digital currency, owned by its community, with instant rewards for holders and an auto-burn mechanism in place.",
+    "explorer": "https://bscscan.com/token/0xB42a08B3B0c5eB47E3036204B3a4Af687B59E2E8",
+    "status": "active",
+    "id": "0xB42a08B3B0c5eB47E3036204B3a4Af687B59E2E8"
+}
